@@ -60,3 +60,6 @@ Mapa de calor, linhas, barras horizontais, lollipop, mapa do Brasil e treemap. N
 
 Python, pandas, seaborn, plotly, matplotlib e scikit-learn.
 
+## Autoria
+
+Anna Oki e Lucas Dias
