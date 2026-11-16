@@ -60,12 +60,3 @@ Mapa de calor, linhas, barras horizontais, lollipop, mapa do Brasil e treemap. N
 
 Python, pandas, seaborn, plotly, matplotlib e scikit-learn.
 
-## Como executar
-
-1. Clone o repositório e instale as dependências:
-   ```bash
-   pip install -r requirements.txt
-   ```
-2. Baixe o `datatran2020.csv` (agrupados por ocorrência) no link da PRF acima e coloque em `data/raw/`.
-3. Abra a pasta `notebooks/` no Jupyter e execute **na ordem**: `01_negocio` → `02_dados` → `03_preparacao` → `04_modelagem` → `05_avaliacao`.
-4. Os gráficos são salvos em `dashboard/` e o relatório fica em `docs/`.
